@@ -67,6 +67,7 @@ body {
     position: absolute;
     top: 5px;
     right: 5px;
+    font-size: 18px;
     padding: 10px;
     border-radius: 4px;
     color: #fff;
@@ -74,7 +75,7 @@ body {
 
 .fa-copy:hover {
     cursor: pointer;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.125);
 }
 
 .fa-copy:active {
